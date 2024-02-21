@@ -1,0 +1,75 @@
+body{
+      
+    color: white;
+    font-family: 'verdana', sans-serif;  
+    background-image: url('raiden-mortal-kombat-x-4k-5k-wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(66, 60, 60, 0.5)
+
+    
+}
+
+h1{
+
+    background-size: cover;
+    text: align 80px;   
+ 
+}
+h2{
+    
+    text-align: center;
+    font-size: 30px;
+      padding: 1%;}
+
+
+
+
+
+p{
+    line-height: 1.8;
+    text-align: justify;
+    padding: 5%; 
+    margin-bottom: 200px;
+    margin: 10px;
+    background-color: rgba(37, 36, 36, 0.411);
+    padding-bottom: 15px;
+    padding-top: 5px;
+    font-size: 20px;
+
+    
+}
+
+
+.container{
+
+    text-align: right;
+
+}
+
+.Bto1,.Bto2{
+    border: 3px solid #ffffff;
+    padding: 10px 20px;
+    font-size: 28px;
+    font-family:'verdana', sans-serif ;
+    margin: 25px;
+    transition: 1.0s;
+    border-radius: 40%;
+    width: 15%;
+     height: 10%;
+     background:none;
+     
+               
+}
+
+
+
+
+
+
+
+
+
+
+
+
